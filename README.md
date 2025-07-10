@@ -13,10 +13,3 @@
 > https://cdnjs.ipip.icu/gh/ITJoker233/BingPicApi/json/日期.json
 
 
-
-
-## 例：https://cdn.jsdelivr.net/gh/ITJoker233/BingPicApi/pic/20200312.png
-> https://cdn.jsdelivr.net/gh/ITJoker233/BingPicApi/pic/日期.png
-
-## 例：https://cdn.jsdelivr.net/gh/ITJoker233/BingPicApi/json/20200312.json
-> https://cdn.jsdelivr.net/gh/ITJoker233/BingPicApi/json/日期.json
