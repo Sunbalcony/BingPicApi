@@ -6,10 +6,10 @@
 
 # 使用方法
 
-## 例：https://cdnjs.ipip.icu/gh/ITJoker233/BingPicApi/pic/20200312.png
+## 例：https://cdnjs.ipip.icu/gh/Sunbalcony/BingPicApi/pic/20250505.png
 > https://cdnjs.ipip.icu/gh/ITJoker233/BingPicApi/pic/日期.png
 
-## 例：https://cdnjs.ipip.icu/gh/ITJoker233/BingPicApi/json/20200312.json
+## 例：https://cdnjs.ipip.icu/gh/Sunbalcony/BingPicApi/json/20250505.json
 > https://cdnjs.ipip.icu/gh/ITJoker233/BingPicApi/json/日期.json
 
 
